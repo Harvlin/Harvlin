@@ -1,4 +1,3 @@
-## Hi there 👋
 - 🔭 I'm currently working on a project that implements microservices that fully rely on docker and spring boot framework
 - 🌱 I’m currently learning microservices and how an app fully rely on docker
 - 📫 How to reach me email: harvlinmaximillian@gmail.com
