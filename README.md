@@ -3,7 +3,7 @@
 - 📫 How to reach me email: harvlinmaximillian@gmail.com
 - 📫 How to reach me instagram: @harvlin_maximillian
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Single
+- ⚡ Fun fact: -
 - The programming languages ​​that I have mastered include:
     1. Java (Main)
     2. Python
