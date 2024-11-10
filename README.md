@@ -11,5 +11,4 @@
     4. Html, Css, JS
 - I have mastered database programming languages ​​such as mysql and postgresql
 - I have mastered some important framework such as spring boot, hibernate, etc.
-- I have also mastered a few python library for data analysis such as numpy, pyplot, and pandas.
-- I also understand the top 10 OWASP as additional knowledge and am quite familiar with the linux ecosystem especially kali
+- I have mastered a few python library for data analysis such as numpy, pyplot, and pandas.
