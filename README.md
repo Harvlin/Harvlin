@@ -11,3 +11,5 @@
 - I have mastered database programming languages ​​such as mysql and postgresql
 - I have mastered some important framework such as spring boot, hib+ernate, react, etc.
 - I have mastered a few library for data analysis such as numpy, pyplot, and pandas.
+
+Email me for private repositories
