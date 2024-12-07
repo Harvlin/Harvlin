@@ -2,7 +2,7 @@
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate with anyone who has better frontend skills than me
 - 💬 Ask me about anything especially backend
-- ⚡ Fun fact: - benched 165lbs for 2
+- ⚡ Fun fact: benched 165lbs for 2
 ---
 # Skills
   ### Programming Languages
