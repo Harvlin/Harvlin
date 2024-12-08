@@ -1,8 +1,6 @@
 - 🔭 I'm currently working on a project that implements microservices and fully rely on docker, external APIs, and springboot
-- 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate with anyone who has better frontend skills than me
 - 💬 Ask me about anything especially backend
-- ⚡ Fun fact: benched 165lbs for 2
 ---
 # Skills
   ### Programming Languages
@@ -30,7 +28,7 @@
   - MySQL
   - Oracle
   ## Others
-  - Docker, Git, Selenium, Competitive Programming, Arduino
+  - Docker, Git, Selenium, AWS, Competitive Programming, Arduino
 ---
 ### Contact Me
 **Email me for private repositories: harvlinmaximillian@gmail.com**
