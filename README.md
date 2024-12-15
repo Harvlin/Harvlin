@@ -1,7 +1,9 @@
 - 🔭 My technical expertise centers on backend systems, complemented by proficient frontend development skills.
-- 👯 I’m looking to collaborate with anyone who has better frontend skills than me
-- 💬 Ask me about anything especially backend
+- 👯 I’m looking to collaborate with anyone who has better frontend skills
+- 💬 Ask me about anything, especially backend if you want
+
 ---
+
 # Skills
   ### Programming Languages
   [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,typescript,python&perline=5)](https://skillicons.dev)
@@ -19,10 +21,10 @@
   - Selenium
   ### Database
   [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,oracle&perline=5)](https://skillicons.dev)
-  ## Others
+  ### Others
   [![My Skills](https://skillicons.dev/icons?i=docker,git,postman,aws,arduino&perline=5)](https://skillicons.dev)
+  
 ---
-
-## Contact Me
+### Contact Me
 **Email me for private repositories: harvlinmaximillian@gmail.com**
 > *"A program is never less than 90% complete, and never more than 95% complete"*
